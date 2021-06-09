@@ -1,2 +1,2 @@
 # dmtool
-# qianweijian2017.dmtool.github.io
+# https://qianweijian2017.github.io/dmtool/
